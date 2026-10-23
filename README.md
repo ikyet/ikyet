@@ -1,10 +1,10 @@
-# Hola, soy Luis Felipe 👋
+# Hola
 
-**Desarrollador de Software Jr.** · Guadalajara, Jalisco, México
+**Desarrollador de Software Jr.** ·
 
-Tecnólogo en Desarrollo de Software egresado del **CETI Plantel Colomos (2026)**. Hago sitios web para clientes como freelance y desarrollé una app móvil para Android e iOS conectada a una API y base de datos. Uso Claude y ChatGPT en mi día a día para programar, revisar y depurar código.
 
-### 🚀 Proyectos destacados
+
+###Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 | --- | --- | --- |
@@ -14,20 +14,14 @@ Tecnólogo en Desarrollo de Software egresado del **CETI Plantel Colomos (2026)*
 | [Nescafe](https://github.com/ikyet/Nescafe) | Landing page de producto con animaciones al hacer scroll | TypeScript |
 | [jueguito-chill](https://github.com/ikyet/jueguito-chill) | Juego en el navegador controlable con flechas | JavaScript |
 
-### 🛠️ Tecnologías
+###  Tecnologías
 
 **Lenguajes:** JavaScript · TypeScript · Java · C++ · Swift · HTML · CSS  
 **Frameworks y herramientas:** React · Next.js · Angular · Vite · Tailwind · Git · GitHub  
 **Bases de datos:** MySQL  
 **IA para desarrollo:** Claude · ChatGPT
 
-### 📚 Formación
 
-- Tecnólogo en Desarrollo de Software — CETI Plantel Colomos (2026)
-- Discover Data — Oracle Education Foundation y JA México
-
-🌎 Español nativo · Inglés B1
-
-### 📫 Contacto
+### Contacto
 
 Teléfono: 33 1425 5328
